@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppLembretes</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="t_tulo">Título</string>
+    <string name="data">Data</string>
+    <string name="android_string_cancel">android:string/cancel</string>
+    <string name="cancel">Cancelar</string>
+    <string name="title">Título</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="descripition_new_task">Nova tarefa</string>
+</resources>
